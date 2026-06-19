@@ -41,7 +41,7 @@ Aspiring cybersecurity student with hands-on experience in networking, operating
 ## Projects
 
 - Port Scanner
-- Packet Sniffer
+- Vulnerability scanner
   
 ## Notes Repository
 
