@@ -42,6 +42,15 @@ Aspiring cybersecurity student with hands-on experience in networking, operating
 
 - Port Scanner
 - Packet Sniffer
+  
+## Notes Repository
 
-## TryHackMe Achievements
+The Cybersecurity Foundations repository contains structured notes and summaries from my cybersecurity learning journey.
+
+## Future Interests
+
+- Packet Analysis
+- Wireshark
+- Network Security
+- Ethical Hacking
 
