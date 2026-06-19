@@ -49,8 +49,8 @@ The Cybersecurity Foundations repository contains structured notes and summaries
 
 ## Future Interests
 
-- Packet Analysis
+- Ethical Hacking
 - Wireshark
 - Network Security
-- Ethical Hacking
+- Coding
 
